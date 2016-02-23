@@ -1,0 +1,2 @@
+# Jungle-game
+Creates a array of size given by user, populates half of it randomly with random animal objects. Then selects one animal randomly to move one step forward, backward or not move at all and then performs actions like if there's a battle between same animals then stronger survives, if battle with different animal then bear survives or if two different gender animals of same type come together then a new animal object is created and placed randomly.
